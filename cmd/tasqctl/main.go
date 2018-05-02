@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/aleccunningham/tasq/tasqctl/cmd"
+	"github.com/aleccunningham/tasq/cmd/tasqctl/cmd"
 )
 
 func main() {
